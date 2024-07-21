@@ -4,7 +4,7 @@
   "title": "Yggdrasil API",
   "description": "Yggdrasil API + authlib-injector = ✨",
   "author": "printempw",
-  "url": "https://github.com/bs-community/yggdrasil-api/",
+  "url": "https://github.com/shoei1944/yggdrasil-api/",
   "namespace": "Yggdrasil",
   "require": {
     "blessing-skin-server": "6.0.2"
